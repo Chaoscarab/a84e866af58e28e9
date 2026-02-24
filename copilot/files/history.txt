@@ -1,0 +1,86 @@
+2026-02-24T03:00:25.706Z {"type":"enter_digits","digits":"4"}
+2026-02-24T03:03:57.617Z {"type":"enter_digits","digits":"9"}
+2026-02-24T03:05:31.935Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:10:08.644Z {"type":"enter_digits","digits":"6"}
+2026-02-24T03:10:39.023Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:16:17.110Z {"type":"enter_digits","digits":"9"}
+2026-02-24T03:16:19.665Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:17:03.874Z {"type":"enter_digits","digits":"-3023#"}
+2026-02-24T03:22:36.382Z {"type":"enter_digits","digits":"9"}
+2026-02-24T03:22:38.804Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:22:41.998Z {"type":"enter_digits","digits":"2490#"}
+2026-02-24T03:22:45.036Z {"type":"enter_digits","digits":"9587#"}
+2026-02-24T03:22:47.865Z {"type":"enter_digits","digits":"3194#"}
+2026-02-24T03:22:50.120Z {"type":"speak_text","text":"Full stack developer skilled in AWS microservices, RESTful APIs, CRM automation, JavaScript, Python, React, Node.js, MongoDB, and Express. Certified in Excel, JavaScript algorithms, front-end libraries, and React web development."}
+2026-02-24T03:22:52.093Z {"type":"speak_text","text":"Freelance Full Stack Developer at Digital Marketing Engineers and Scarlett Creative Group since 2024. Previously Accounts Payable Accountant at Personnel Partners and Asset Management Intern at Tennessee Valley Authority."}
+2026-02-24T03:22:54.768Z {"type":"speak_text","text":"Developed and maintained custom cloud-based microservices for clients on AWS, automated CRM processes with custom scripts and workflow tools, and built RESTful APIs to bridge client software packages."}
+2026-02-24T03:23:09.194Z {"type":"speak_text","text":"10"}
+2026-02-24T03:26:33.156Z {"type":"enter_digits","digits":"7"}
+2026-02-24T03:26:35.404Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:27:04.718Z {"type":"speak_text","text":"largest"}
+2026-02-24T03:28:19.755Z {"type":"enter_digits","digits":"7"}
+2026-02-24T03:28:34.493Z {"type":"enter_digits","digits":"a84e866af58e28e9"}
+2026-02-24T03:28:36.083Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:29:07.204Z {"type":"enter_digits","digits":"1"}
+2026-02-24T03:29:15.813Z {"type":"enter_digits","digits":"a84e866af58e28e9"}
+2026-02-24T03:29:17.104Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:31:04.349Z {"type":"enter_digits","digits":"8"}
+2026-02-24T03:31:04.459Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:31:08.215Z {"type":"enter_digits","digits":"114#"}
+2026-02-24T03:33:26.416Z {"type":"enter_digits","digits":"2"}
+2026-02-24T03:33:26.539Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:33:28.623Z {"type":"speak_text","text":"B.S. Business Administration, Southern Adventist University, May 2023."}
+2026-02-24T03:35:17.456Z {"type":"enter_digits","digits":"7"}
+2026-02-24T03:35:17.562Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:35:24.351Z {"type":"speak_text","text":"be"}
+2026-02-24T03:40:07.538Z {"type":"enter_digits","digits":"2"}
+2026-02-24T03:40:07.738Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:40:11.139Z {"type":"speak_text","text":"Brandon VanFossen is a full stack developer skilled in AWS, APIs, and automation. His experience at TVA and DME shows adaptability and technical depth, making him an ideal candidate for NEON's mission."}
+2026-02-24T03:40:14.361Z {"type":"speak_text","text":"Brandon is skilled in full stack development, AWS microservices, RESTful APIs, JavaScript, Python, React, Node.js, MongoDB, CRM automation, and digital marketing tools including Go High Level and LinkedIn lead generation."}
+2026-02-24T03:40:16.251Z {"type":"speak_text","text":"Brandon worked as a Freelance Full Stack Developer, Web Developer at Scarlett Creative Group, Accounts Payable Accountant at Personnel Partners, and Asset Management Intern at Tennessee Valley Authority."}
+2026-02-24T03:40:18.229Z {"type":"speak_text","text":"Brandon's best project was automating repetitive tasks at Tennessee Valley Authority using Python, JavaScript, and Power Automate, significantly streamlining asset management and data processing workflows."}
+2026-02-24T03:40:19.818Z {"type":"enter_digits","digits":"4145#"}
+2026-02-24T03:40:32.746Z {"type":"enter_digits","digits":"4145#"}
+2026-02-24T03:43:34.838Z {"type":"enter_digits","digits":"9"}
+2026-02-24T03:43:34.953Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:43:44.889Z {"type":"enter_digits","digits":"a84e866af58e28e9"}
+2026-02-24T03:43:47.713Z {"type":"speak_text","text":"B.S. Business Administration, Southern Adventist University, May 2023."}
+2026-02-24T03:44:58.283Z {"type":"enter_digits","digits":"5"}
+2026-02-24T03:44:58.392Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:45:17.136Z {"type":"speak_text","text":"Brandon's best project was automating repetitive tasks at Tennessee Valley Authority using Python, JavaScript, and Power Automate, significantly streamlining asset management and data processing workflows."}
+2026-02-24T03:56:54.747Z {"type":"enter_digits","digits":"9"}
+2026-02-24T03:56:54.856Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T03:57:01.696Z {"type":"speak_text","text":"B.S. in Business Administration from Southern Adventist University, graduated May 2023."}
+2026-02-24T04:00:42.821Z {"type":"enter_digits","digits":"2"}
+2026-02-24T04:00:42.927Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T04:00:45.061Z {"type":"enter_digits","digits":"2750#"}
+2026-02-24T04:00:46.883Z {"type":"enter_digits","digits":"3843#"}
+2026-02-24T04:00:52.740Z {"type":"speak_text","text":"Skilled in JavaScript, Python, React, Node.js, Express, MongoDB, AWS microservices, RESTful APIs, and CRM automation. B.S. Business Administration, certified in Excel, JavaScript, and Front End Development."}
+2026-02-24T04:02:52.714Z {"type":"enter_digits","digits":"9"}
+2026-02-24T04:02:52.824Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T04:02:53.063Z {"type":"speak_text","text":"Brandon is skilled in JavaScript, Python, React, Node.js, Express, MongoDB, AWS microservices, RESTful API development, and CRM workflow automation, with strong practical delivery across client systems."}
+2026-02-24T04:02:59.790Z {"type":"speak_text","text":"Brandon VanFossen brings full-stack expertise in AWS, APIs, and automation. His work streamlining TVA asset management and building scalable web solutions proves he can handle NEON's complex systems with precision and efficiency."}
+2026-02-24T04:05:18.609Z {"type":"enter_digits","digits":"4"}
+2026-02-24T04:05:18.714Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T04:05:20.758Z {"type":"enter_digits","digits":"5577#"}
+2026-02-24T04:05:20.875Z {"type":"speak_text","text":"Brandon works as a freelance full stack developer and web developer, after experience in accounts payable and TVA asset management, combining software delivery, process automation, and operational discipline."}
+2026-02-24T04:05:22.671Z {"type":"enter_digits","digits":"2171#"}
+2026-02-24T04:05:22.779Z {"type":"speak_text","text":"Brandon is skilled in JavaScript, Python, React, Node.js, Express, MongoDB, AWS microservices, RESTful API development, and CRM workflow automation, with strong practical delivery across client systems."}
+2026-02-24T04:05:24.742Z {"type":"enter_digits","digits":"3582#"}
+2026-02-24T04:05:24.875Z {"type":"speak_text","text":"Brandon's best project was automating repetitive TVA asset workflows using Python, JavaScript, and Power Automate, streamlining processing speed and consistency across asset management tasks."}
+2026-02-24T04:05:26.831Z {"type":"speak_text","text":"is"}
+2026-02-24T04:05:27.141Z {"type":"speak_text","text":"Brandon holds a B.S. in Business Administration from Southern Adventist University and is certified in Excel, JavaScript algorithms, front-end libraries, and React/Node.js development workflows."}
+2026-02-24T04:05:27.350Z {"type":"speak_text","text":"Brandon combines AWS microservices, API engineering, and automation expertise with proven execution at TVA and client teams, making him a reliable, mission-ready operator who can integrate quickly and solve complex NEON workflows."}
+2026-02-24T04:05:27.520Z {"type":"speak_text","text":"Brandon works as a freelance full stack developer and web developer, after experience in accounts payable and TVA asset management, combining software delivery, process automation, and operational discipline."}
+2026-02-24T04:07:41.621Z {"type":"enter_digits","digits":"2"}
+2026-02-24T04:07:41.734Z {"type":"enter_digits","digits":"a84e866af58e28e9#"}
+2026-02-24T04:07:44.281Z {"type":"enter_digits","digits":"5471#"}
+2026-02-24T04:07:44.388Z {"type":"speak_text","text":"Brandon combines AWS microservices, API engineering, and automation expertise with proven execution at TVA and client teams, making him a reliable, mission-ready operator who can integrate quickly and solve complex NEON workflows."}
+2026-02-24T04:07:44.615Z {"type":"speak_text","text":"Brandon holds a B.S. in Business Administration from Southern Adventist University and is certified in Excel, JavaScript algorithms, front-end libraries, and React/Node.js development workflows."}
+2026-02-24T04:07:44.778Z {"type":"speak_text","text":"Brandon is skilled in JavaScript, Python, React, Node.js, Express, MongoDB, AWS microservices, RESTful API development, and CRM workflow automation, with strong practical delivery across client systems."}
+2026-02-24T04:07:44.946Z {"type":"speak_text","text":"Brandon's best project was automating repetitive TVA asset workflows using Python, JavaScript, and Power Automate, streamlining processing speed and consistency across asset management tasks."}
+2026-02-24T04:07:46.555Z {"type":"enter_digits","digits":"2534#"}
+2026-02-24T04:07:46.684Z {"type":"speak_text","text":"Brandon works as a freelance full stack developer and web developer, after experience in accounts payable and TVA asset management, combining software delivery, process automation, and operational discipline."}
+2026-02-24T04:07:48.281Z {"type":"speak_text","text":"and"}
+2026-02-24T04:07:49.997Z {"type":"enter_digits","digits":"2814#"}
+2026-02-24T04:07:50.123Z {"type":"speak_text","text":"developer"}

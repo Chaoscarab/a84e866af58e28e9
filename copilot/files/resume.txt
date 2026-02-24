@@ -1,0 +1,38 @@
+Brandon VanFossen  
+Phone: 706-676-4856 Email: bgvfossen@gmail.com GitHub: @Chaoscarab LinkedIn: https://www.linkedin.com/in/brandon-vanfossen/
+Education:  
+B.S. Business Administration,   
+Southern Adventist University, May 2023.  
+Freelance Full Stack Developer 
+Digital Marketing Engineers 
+01/10/2024 – Present 
+• Developed and maintained custom cloud based microservices for clients on AWS. 
+• Automated CRM processes with a combination of custom scripts and native workflow 
+automation tools. 
+• Built custom RESTful APIs to bridge client software packages. 
+Web Developer 
+Scarlett Creative Group 
+02/08/2024 – Present 
+• Designed click-funnel landing pages. 
+• Performed lead generation with LinkedIn lead Connector. 
+• Built targeted email marketing campaigns in Go High Level. 
+Accounts Payable Accountant 
+Personnel partners  
+09/16/2023 – 10/16/2023  
+• Perform 3-way checks on purchasing documents for accounts payable using purpose build 
+software.  
+• Verified invoices from b2b vendors.   
+Asset Management Intern  
+Tennessee Valley Authority  
+08/14/2022 – 10/14/2023  
+• Logged assets purchased by TVA that had been received into the company’s excel spreadsheet, 
+enterprise management software, and asset management software.  
+• Automated repetitive tasks using high level coding languages such as python and JavaScript in 
+conjunction with Power Automate.   
+• Carried out the disposal of storage devices containing proprietary company data.  
+Certifications  
+• Certified in Excel (Office Suite 2016)  
+• JavaScript Algorithms and data structures.  
+• Front End Development Libraries.  
+• Node-js, Express, MongoDB. 
+• React Web Development. 

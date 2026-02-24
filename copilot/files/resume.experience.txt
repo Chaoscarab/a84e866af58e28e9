@@ -1,0 +1,20 @@
+Work Experience
+
+Freelance Full Stack Developer — Digital Marketing Engineers (01/10/2024–Present)
+- Developed and maintained cloud-based microservices on AWS.
+- Automated CRM processes via custom scripts and workflow automation tools.
+- Built RESTful APIs to connect client software systems.
+
+Web Developer — Scarlett Creative Group (02/08/2024–Present)
+- Designed click-funnel landing pages.
+- Performed LinkedIn-based lead generation.
+- Built targeted email campaigns in Go High Level.
+
+Accounts Payable Accountant — Personnel Partners (09/16/2023–10/16/2023)
+- Performed 3-way checks on purchasing documents for AP workflows.
+- Verified B2B vendor invoices.
+
+Asset Management Intern — Tennessee Valley Authority (08/14/2022–10/14/2023)
+- Logged purchased assets across spreadsheets and enterprise systems.
+- Automated repetitive tasks with Python, JavaScript, and Power Automate.
+- Managed disposal workflow for storage devices containing proprietary data.

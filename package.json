@@ -1,0 +1,30 @@
+{
+  "name": "neon_challenge",
+  "version": "1.0.0",
+  "description": "",
+  "license": "ISC",
+  "author": "",
+  "type": "module",
+  "main": "index.js",
+  "scripts": {
+    "dev": "tsx watch index.ts",
+    "start": "tsx index.ts",
+    "build": "tsc",
+    "start:prod": "node build/index.js"
+  },
+  "dependencies": {
+    "@github/copilot-sdk": "^0.1.26",
+    "@types/express": "^5.0.6",
+    "@types/node": "^25.3.0",
+    "dotenv": "^17.3.1",
+    "express": "^5.2.1",
+    "tsx": "^4.21.0",
+    "ws": "^8.19.0"
+  },
+  "devDependencies": {
+    "@types/ws": "^8.18.1",
+    "nodemon": "^3.1.14",
+    "ts-node": "^10.9.2",
+    "typescript": "^5.9.3"
+  }
+}

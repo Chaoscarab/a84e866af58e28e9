@@ -1,0 +1,13 @@
+Education
+- B.S. Business Administration, Southern Adventist University (May 2023)
+
+Technical Skills
+- JavaScript, Python, React, Node.js, Express, MongoDB
+- AWS microservices, RESTful APIs, CRM automation
+
+Certifications
+- Certified in Excel (Office Suite 2016)
+- JavaScript Algorithms and Data Structures
+- Front End Development Libraries
+- Node.js, Express, MongoDB
+- React Web Development

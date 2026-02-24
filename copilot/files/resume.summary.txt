@@ -1,0 +1,17 @@
+Brandon VanFossen
+
+Education:
+- B.S. Business Administration, Southern Adventist University (May 2023)
+
+Recent roles:
+- Freelance Full Stack Developer, Digital Marketing Engineers (2024–Present)
+- Web Developer, Scarlett Creative Group (2024–Present)
+- Accounts Payable Accountant, Personnel Partners (2023)
+- Asset Management Intern, Tennessee Valley Authority (2022–2023)
+
+Core strengths:
+- AWS cloud microservices, RESTful APIs, CRM workflow automation
+- JavaScript, Python, React, Node.js, Express, MongoDB
+
+Notable project:
+- Automated repetitive TVA asset-management tasks using Python, JavaScript, and Power Automate, reducing manual processing and improving workflow speed/consistency.

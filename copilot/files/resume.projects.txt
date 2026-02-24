@@ -1,0 +1,16 @@
+Notable Projects (work/personal)
+
+1) TVA automation project (best project)
+- Built automation for repetitive asset-management tasks at Tennessee Valley Authority.
+- Used Python, JavaScript, and Power Automate.
+- Streamlined data handling and workflow execution across asset tracking and related operational steps.
+
+2) Cloud and API client solutions
+- Developed and maintained AWS-based microservices for client systems.
+- Built custom RESTful APIs to bridge client software packages.
+- Automated CRM processes using custom scripts and native workflow tools.
+
+3) Marketing delivery engineering
+- Designed click-funnel landing pages.
+- Built targeted email campaigns in Go High Level.
+- Performed lead generation with LinkedIn tooling.
